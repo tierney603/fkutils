@@ -1,10 +1,10 @@
 {
   "name": "fackutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "tierney603",
   "description": "fackutils",
-  "main": "index.js",
+  "main": "mian.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/tierney603/fkutils"
