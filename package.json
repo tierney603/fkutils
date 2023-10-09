@@ -1,14 +1,13 @@
 {
-  "name": "fkutils",
+  "name": "fackutils",
   "version": "1.0.0",
   "description": "",
   "author": "tierney603",
-  "description": "fkutils",
+  "description": "fackutils",
   "main": "index.js",
   "repository": {
-    // 代码托管位置
     "type": "git",
-    "url": "https://github.com/xxx/shang-utils"
+    "url": "https://github.com/tierney603/fkutils"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
